@@ -104,6 +104,20 @@ img {
   overflow: hidden;
   border-radius: 38px 38px 38px 38px;
 }
+#overview {
+  overflow: auto;
+  width: auto;
+  height: auto;
+}
+#overview::-webkit-scrollbar {
+  width: 6px;
+}
+#overview::-webkit-scrollbar-thumb {
+  background-color: #874c62;
+}
+#overview::-webkit-scrollbar-track {
+  background-color: #c98474;
+}
 input {
   color: #8d95e0;
   background-color: #eee;
