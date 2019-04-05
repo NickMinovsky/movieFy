@@ -1,7 +1,8 @@
-### A Simple movie databse
-showing a short description and user ratings.
+### What is this?
+A movie DB website  showing a short description and user ratings.
 
-fully responsive on all devices.
+## Made with:
+React.js, jquery and a public API (from TMDb)
 
-
-made using a public API (TMDb)
+## Designed with:
+pure CSS, including a responsive search box, custom scroll bars and fully responsive on all devices.
